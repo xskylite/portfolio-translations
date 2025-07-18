@@ -1,0 +1,6 @@
+{
+  "main-me": {
+    "greeting": "Hi, I'm",
+    "description": "Hi! I'm a 15-year-old FullStack developer. I work with Vue, Nuxt, and Tailwind on the frontend, and with Fastify, Elysia, and PostgreSQL on the backend. I write in TypeScript and JavaScript, and I'm interested in DevOps and design. I can create a modern interface or a reliable API. If you're interested — feel free to contact me!"
+  }
+}
