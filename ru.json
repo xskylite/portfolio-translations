@@ -1,6 +1,7 @@
 {
   "main-me": {
     "greeting": "Привет, я",
-    "description": "Привет! Я 15-летний FullStack-разработчик: на фронтенде работаю с Vue, Nuxt, Tailwind, на бэкенде — с Fastify, Elysia и PostgreSQL. Пишу на TypeScript и JavaScript, интересуюсь DevOps и дизайном. Готов создать современный интерфейс или надёжный API. Если вы заинтересованы — свяжитесь со мной!"
+    "description": "Привет! Я 15-летний FullStack-разработчик: на фронтенде работаю с Vue, Nuxt, Tailwind, на бэкенде — с Fastify, Elysia и PostgreSQL. Пишу на TypeScript и JavaScript, интересуюсь DevOps и дизайном. Готов создать современный интерфейс или надёжный API. Если вы заинтересованы — свяжитесь со мной!",
+    "contact": "Связаться со мной!"
   }
 }
